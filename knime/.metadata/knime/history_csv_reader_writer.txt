@@ -1,0 +1,1 @@
+/Users/jcbraz/Projects/market-prediction/data/ethereum-data.csv
